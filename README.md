@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="conradpereira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/conrad-pereira/]
+[<img align="left" alt="conradpereira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
