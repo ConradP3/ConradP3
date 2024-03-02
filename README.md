@@ -1,8 +1,8 @@
 ### Hi, I'm Conrad Pereira 👋
 
-## I'm a Computer Science Masters of Engineering Student!
+## I'm an engineer!
 
-- 🌱 I’m interested in Full Stack Engineering and Machine Learning
+- 🌱 I’m interested in software development and data science!
 
 ### Connect with me:
 
